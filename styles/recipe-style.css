@@ -1,0 +1,31 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+
+h1{
+    font-size: 48px;
+    font-weight: 900;
+}
+
+h2{
+    font-size: 28px;
+    font-weight: 700;
+    color: brown;
+}
+
+img{
+    height: auto;
+    width: 700px;
+    border-radius: 10px;
+}
+
+li{
+    text-align: justify;
+}

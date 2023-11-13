@@ -1,0 +1,30 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 18px;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+h1{
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.recipe-title {
+    font-size: 24px;
+    font-weight: 700;
+    color: black;
+}
+
+h3{
+    color: brown;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+strong{
+    color: brown;
+}
